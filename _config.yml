@@ -1,28 +1,40 @@
-name: Hilary Johnson
-favicon: null
-layout_spectrum: 0.47179313586093485
-typography_spectrum: 0.3872828984167427
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4754600147716701
+  brandStrength: 0.4480287
+  lightness: 0.8115579218138009
+  brandColors:
+    - '#E8E7E2'
+    - '#FC0376'
+    - '#FCA365'
+    - '#4C1E03'
+    - '#BD0402'
+  rhythmicContrast: 0.561683839187026
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Hilary Johnson
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5730323190800846
-  lightness: 0.8115579218138009
-  saturation: 0.4754600147716701
-  rhythmicContrast: 0.561683839187026
-purpose: []
+typography_spectrum: 0.8888889
+layout_spectrum: 0.3996416
